@@ -1,0 +1,13 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo y temporales de editores
+*~
+*.swp
+*.swo
+*.bak
+
+# Directorios de IDEs y editores
+.vscode/
+.idea/
